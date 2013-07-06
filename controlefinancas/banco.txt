@@ -1,0 +1,5 @@
+mysqli_query no lugar de dbx_query
+
+mysqli_connect no lugar dbx_connect
+
+mysqli_fectch_row $res->data[linha][coluna]
